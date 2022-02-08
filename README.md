@@ -1,4 +1,4 @@
-### Olá Mundo! Eu sou o Enrick 👋
+## Olá Mundo! Eu sou o Enrick 👋
 
 - 🔭 Estou buscando meu primeiro sim no mercado de tecnologia.
 - 🌱 Atualmente estudanto python e cursando Ciência da Computação!
