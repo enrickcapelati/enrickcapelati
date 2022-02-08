@@ -5,8 +5,8 @@
 - 📫 Entre em contato em enrickcapelati@hotmail.com
 <div align="center">
   <a href="https://www.linkedin.com/in/enrickcapelati/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=enrickcapelati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrickcapelati&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enrickcapelati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrickcapelati&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-Python" height="40" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
