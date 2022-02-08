@@ -3,7 +3,7 @@
 - 🔭 Estou buscando meu primeiro sim no mercado de tecnologia.
 - 🌱 Atualmente estudanto python e cursando Ciência da Computação!
 - 📫 Entre em contato em enrickcapelati@hotmail.com
-<div align="center">
+<div align="center-right">
   <a href="https://www.linkedin.com/in/enrickcapelati/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enrickcapelati&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrickcapelati&layout=compact&langs_count=7&theme=blue-green"/>
