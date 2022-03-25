@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou o Enrick 👋
 
 - 🔭 Estou buscando meu primeiro sim no mercado de tecnologia.
-- 🌱 Atualmente estudanto python e cursando Ciência da Computação!
+- 🌱 Atualmente estudanto programação e cursando Ciência da Computação!
 - 📫 Entre em contato em enrickcapelati@hotmail.com
 <div align="center-right">
   <a href="https://www.linkedin.com/in/enrickcapelati/">
