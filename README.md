@@ -1,6 +1,6 @@
 ## Olá Mundo! Eu sou o Enrick 👋
 
-- 🔭 Estou buscando meu primeiro sim no mercado de tecnologia.
+- 🔭 Estagiário em analytics na Bradesco Seguros
 - 🌱 Atualmente estudanto programação e cursando Ciência da Computação!
 - 📫 Entre em contato em enrickcapelati@hotmail.com
 <div align="center-right">
