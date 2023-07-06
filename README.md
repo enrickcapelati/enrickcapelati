@@ -10,6 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center-right" alt="Rick-Python" height="40" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center-right" alt="Rick-Jupyter" height="40" width="100" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   <img align="center-right" alt="Rick-Pandas" height="40" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center-right" alt="Rick-Numpy" height="40" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img align="center-right" alt="Rick-SqlServer" height="40" width="130" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
