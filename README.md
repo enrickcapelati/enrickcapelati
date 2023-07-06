@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou o Enrick 👋
 
 - 🔭 Estagiário em analytics na Bradesco Seguros
-- 🌱 Atualmente estudanto programação e cursando Ciência da Computação!
+- 🌱 Atualmente cursando o 6º Semestre de Ciência da Computação!
 - 📫 Entre em contato em enrickcapelati@hotmail.com
 <div align="center-right">
   <a href="https://www.linkedin.com/in/enrickcapelati/">
